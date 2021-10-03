@@ -1,1 +1,1 @@
-Sitemap: https://lchenliang.github.io/fastpages/sitemap.xml
+Sitemap: https://lchenliang.github.io/techblog/sitemap.xml
